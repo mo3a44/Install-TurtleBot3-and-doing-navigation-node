@@ -30,4 +30,10 @@ now we will open the the Navigation Simulation using this command line
 $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 
 ```
+Here is the result 
+![image](https://user-images.githubusercontent.com/93173060/182370834-1ef42c00-d5c0-4e5b-9522-3cfcf7b5818c.png)
+
+
+
+
 
